@@ -1,0 +1,6 @@
+# VSCode Editor Configs
+.vscode
+
+# Mac specific stuff
+.DS_Store
+
